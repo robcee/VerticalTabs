@@ -7,6 +7,14 @@ Tree Style Tab add-on.
 
 Download & Install: http://people.mozilla.org/~rcampbell/VerticalTabs.xpi
 
+TODO:
+
+* Currently, Uninstall leaves Tabs in the Sidebar. Should restore without
+  requiring an update.
+
+* Resizing to minimum size can cause some issues. Explore hiding tab labels
+  below threshold.
+
 Goals:
 
 * Ability to arrange tabs in groups (instead of arbitrary trees) plus
